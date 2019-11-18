@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
-  "homepage": "https://philyuewu.github.io/mywebsite" ,
+  "homepage": "https://philyuewu.github.io/mywebsite",
   "dependencies": {
     "gh-pages": "2.1.1"
   }
